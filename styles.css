@@ -1,0 +1,162 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Bai Jamjuree',
+        sans-serif;
+    font-size: 18px;
+}
+
+.flax {
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    flex-flow: column wrap;
+    margin-bottom: 100px
+}
+
+.flox {
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    flex-flow: row wrap;
+    margin-bottom: 100px
+}
+
+#main {
+    background-image: url(images/bg-header-desktop.png);
+    display: flex;
+    background-size: cover;
+    background-repeat: no-repeat;
+    justify-content: center;
+    align-items: center
+}
+
+#img1 {
+    margin: 150px auto 30px;
+}
+
+#img3 {
+    margin: 100px 0
+}
+
+button {
+    color: white;
+    border: none;
+    padding: 20px 30px;
+    margin: 10px 10px;
+    border-radius: 18px;
+    -webkit-border-radius: 18px;
+    -moz-border-radius: 18px;
+    -ms-border-radius: 18px;
+    -o-border-radius: 18px;
+}
+
+h3 {
+    color: #4f565e;
+}
+
+h1,
+h4 {
+    color: #4f565e;
+    text-align: center;
+}
+
+p {
+    color: #a6abaf;
+    width: 50%;
+    text-align: center;
+}
+
+.btn1 {
+    background-color: #39cfb9;
+}
+
+.btn1:hover {
+    background-color: #5adac6;
+
+}
+
+.btn2:hover {
+    background-color: #8390f8;
+}
+
+
+.btn2 {
+    background-color: #7585f8;
+}
+
+.cont1 {
+    padding-left: 150px;
+}
+
+.cont1 p {
+    text-align: start;
+}
+
+#cont,
+#img2 {
+    width: 50%;
+}
+
+#sixth {
+    width: 80%;
+    margin: 0 auto;
+}
+
+.cont2 {
+    width: 33%;
+    text-align: center;
+}
+
+.cont2p {
+    width: 80%;
+    margin: 10px auto;
+}
+
+#sixth {
+    width: 80%;
+    margin: 100px auto;
+}
+
+#seventh img {
+    margin: 0 40px 0;
+}
+
+footer {
+    background-color: #e8e9eb;
+}
+
+#foo {
+    width: 80%;
+    margin: 0 auto;
+    display: flex;
+    flex-flow: row wrap;
+}
+
+.bot {
+    margin: 0 35px;
+    text-align: start;
+    align-items: flex-start;
+}
+
+.bot a {
+    color: #777b7e;
+    text-decoration: none;
+}
+
+.link {
+    padding: 10px 0
+}
+
+.bot img {
+    width: 60px;
+    margin: 20px 20px;
+}
+
+#imgs {
+    margin-left: 110px;
+}
+
+#imgs img {
+    margin: 10px 10px;
+}
